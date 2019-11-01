@@ -1,16 +1,16 @@
 .brand-logo {
-    margin-left: 10px;
+    margin-left: 20px;
 
 }
 
 .dropdown-trigger {
     background-color: brown;
 }
-
+/* 
 img{
 
-    width: 250px !important;
-}
+ width: 250px !important;
+} */
 
 .carousel {
     border-radius: 20px;
@@ -23,7 +23,7 @@ img{
 
 .nav-wrapper {
     background-color: #3a9199;
-    border-bottom: solid 5px #166168;
+    border-bottom: solid 5px #166168
 }
 
 body {
@@ -43,4 +43,9 @@ body {
 
 .form-group {
     margin: 20px;
+}
+#img { 
+    width: 65px;
+    height: 65px;
+
 }
